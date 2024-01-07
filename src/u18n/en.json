@@ -1,0 +1,59 @@
+{
+    "common": {
+        "login": "Login",
+        "sign_up": "Sign Up",
+        "email": "Email",
+        "password": "Password",
+        "submit": "Submit",
+        "next": "Next",
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "back": "Back",
+        "currency": "RM"
+    },
+    "loginScreen": {
+        "subtitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "dont_have_an_account": "Dont have an account?"
+    },
+    "passcodeScreen": {
+        "title": "What’s your passcode?",
+        "subtitle": "Passcode",
+        "forgot_your_passcode": "Forgot Your Passcode?"
+    },
+    "forgotPasswordScreen": {
+        "title": "Forgot Password?",
+        "subtitle": "Please enter your mobile number to receive a verification code"
+    },
+    "verificationScreen": {
+        "title": "Verification Code",
+        "subtitle_1": "Please type the verification code sent to",
+        "subtitle_2": "Code expires in",
+        "verify_now": "Verify Now",
+        "did_not_get_code": "Didn’t get the code?",
+        "resend": "Resend"
+
+    },
+    "NRICInputScreen": {
+        "title": "What’s your NRIC number?",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+    },
+    "createNewPasscodeScreen": {
+        "title": "Create New Passcode",
+        "subtitle_1": "Passcode",
+        "subtitle_2": "Confirm Passcode"
+    },
+    "passwordResetSuccessfulScreen": {
+        "title": "Password Reset Successful!",
+        "subtitle": "You have successfully reset your password. Please use your new password when logging in."
+    },
+    "signupScreen": {
+        "cancel_sign_up": "Cancel Sign Up",
+        "register_an_account_today": "Register an account today",
+        "mobile_no": "Mobile No.",
+        "nric_no": "NRIC No.",
+        "referal_no": "Referal No.",
+        "this_is_optional": "This is optional",
+        "nickname_signup" : "Nickname",
+        "verification_code" : "Verification Code"
+    }
+}

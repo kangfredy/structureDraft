@@ -1,0 +1,29 @@
+{
+    "common": {
+        "login": "Daftar Masuk",
+        "sign_up": "Daftar",
+        "email": "E-mel",
+        "password": "Kata Laluan",
+        "submit": "Serahkan",
+        "cancel": "Batal",
+        "back": "Kembali",
+        "currency": "RM"
+    },
+    "loginScreen": {
+        "welcome": "Selamat datang",
+        "login_first_to_continue": "Daftar masuk dahulu untuk meneruskan",
+        "dont_have_an_account": "Tidak mempunyai akaun?",
+        "register_now": "Daftar sekarang"
+    },
+    "signupScreen": {
+        "cancel_sign_up": "Batalkan Daftar",
+        "register_an_account_today": "Daftar akaun hari ini",
+        "mobile_no": "Nombor telefon bimbit.",
+        "nric_no": "NRIC No.",
+        "referal_no": "Rujukan No.",
+        "this_is_optional": "Ini adalah pilihan",
+        
+        "nickname_signup" : "Nickname", 
+        "verification_code" : "Verification Code"
+    }
+}
